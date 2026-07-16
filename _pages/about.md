@@ -1,1 +1,9 @@
+---
+layout: archive
+title: ""
+permalink: /
+author_profile: true
+---
+
+
 I am an Assistant Professor at the School of Management, University of Science and Technology of China (USTC). My research focuses on predictive inference, multiple testing, and selective inference. Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from Nankai University, where I was advised by Prof. Changliang Zou.
