@@ -1,7 +1,7 @@
 ---
 title: "Selective Conformal Inference with FCR Control"
 collection: publications
-category: manuscripts
+category: Journal publication
 permalink: /publication/2024-selective-conformal-inference-fcr-control
 excerpt: ''
 date: 2024-01-01
