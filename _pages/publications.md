@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Journal Publications
-
+- [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://arxiv.org/abs/2509.03297)  
+  Lin Lu, **Yuyang Huo**, Haojie Ren, Zhaojun Wang, and Changliang Zou.  
+  *Journal of Machine Learning Research*, just accepted. 
+  
 - [CAP: A General Algorithm for Online Selective Conformal Prediction with FCR Control](https://jmlr.org/papers/v26/24-0452.html)  
   Yajie Bao, **Yuyang Huo**, Haojie Ren, and Changliang Zou.  
   *Journal of Machine Learning Research*, 26(287), 1--74, 2025.
@@ -49,9 +52,7 @@ author_profile: true
   **Yuyang Huo**, Xiaoyang Wu, Changliang Zou, and Haojie Ren.  
   *arXiv preprint*, 2025. Under revision.
 
-- [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://arxiv.org/abs/2509.03297)  
-  Lin Lu, **Yuyang Huo**, Haojie Ren, Zhaojun Wang, and Changliang Zou.  
-  *arXiv preprint*, 2025. Under revision.
+
 
 
 
