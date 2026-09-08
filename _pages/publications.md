@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-- [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://www.jmlr.org/papers/volume27/25-2123/25-2123.pdf) 
+- [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://www.jmlr.org/papers/v27/25-2123.html)  
   Lin Lu, **Yuyang Huo**, Haojie Ren, Zhaojun Wang, and Changliang Zou.  
   *Journal of Machine Learning Research*, 27(186), 1−-86, 2026. 
   
