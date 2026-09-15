@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Journal Publications
+- [Unified Conformalized Multiple Testing with Full Data Efficiency](https://arxiv.org/abs/2508.12085)  
+  **Yuyang Huo**, Xiaoyang Wu, Changliang Zou, and Haojie Ren.  
+  *Journal of the Royal Statistical Society: Series B*, just-accepted.
+  
 - [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://www.jmlr.org/papers/v27/25-2123.html)  
   Lin Lu, **Yuyang Huo**, Haojie Ren, Zhaojun Wang, and Changliang Zou.  
   *Journal of Machine Learning Research*, 27(186), 1−-86, 2026. 
@@ -48,9 +52,7 @@ author_profile: true
   **Yuyang Huo**, Xiaoning Wang, Liuhua Peng, and Changliang Zou.  
   Under revision.
 
-- [Unified Conformalized Multiple Testing with Full Data Efficiency](https://arxiv.org/abs/2508.12085)  
-  **Yuyang Huo**, Xiaoyang Wu, Changliang Zou, and Haojie Ren.  
-  *arXiv preprint*, 2025. Under revision.
+
 
 
 
