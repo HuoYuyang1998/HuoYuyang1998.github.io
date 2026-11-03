@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Publications
 - [Unified Conformalized Multiple Testing with Full Data Efficiency](https://arxiv.org/abs/2508.12085)  
   **Yuyang Huo**, Xiaoyang Wu, Changliang Zou, and Haojie Ren.  
-  *Journal of the Royal Statistical Society: Series B*, just-accepted.
+  *Journal of the Royal Statistical Society: Series B*, qkag132, 2026.
   
 - [Feedback-Enhanced Online Multiple Testing with Applications to Conformal Selection](https://www.jmlr.org/papers/v27/25-2123.html)  
   Lin Lu, **Yuyang Huo**, Haojie Ren, Zhaojun Wang, and Changliang Zou.  
@@ -33,9 +33,9 @@ author_profile: true
 
 ## Conference Publications
 
-- [Learning U-statistics with Active Inference](https://arxiv.org/abs/2605.11638)  
+- [Learning $U$-statistics with Active Inference](https://arxiv.org/abs/2605.11638)  
   Xiaoning Wang, **Yuyang Huo**, Liuhua Peng, and Changliang Zou.  
-  *International Conference on Machine Learning (ICML)*, accepted, 2026.
+  *International Conference on Machine Learning (ICML)*, 127065--127088, 2026.
 
 - [Real-Time Selection Under General Constraints via Predictive Inference](https://proceedings.neurips.cc/paper_files/paper/2024/file/70b8505ac79e3e131756f793cd80eb8d-Paper-Conference.pdf)  
   **Yuyang Huo**, Lin Lu, Haojie Ren, and Changliang Zou.  
