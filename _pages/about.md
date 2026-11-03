@@ -10,7 +10,7 @@ I am an Assistant Professor in the [Department of Statistics and Finance](https:
 
 Before joining USTC, I received my B.S. and Ph.D. degrees in Statistics from [Nankai University](http://en.stat.nankai.edu.cn/), where I was very fortunate to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl_en/list.htm). I also visited the Department of Industrial Systems Engineering and Management at the National University of Singapore, hosted by [Prof. Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
 
-<strong>Email</strong>: [houyynk@gmail.com](mailto:houyynk@gmail.com) or [huoyuyang@ustc.edu.cn](mailto:huoyuyang@ustc.edu.cn)  
+<strong>Email</strong>: [huoyynk@gmail.com](mailto:huoyynk@gmail.com) or [huoyuyang@ustc.edu.cn](mailto:huoyuyang@ustc.edu.cn)  
 
 ## Research Interests
 
